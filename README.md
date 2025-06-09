@@ -19,3 +19,7 @@ sort mp4 file download by Bili23-Downloader | 将从Bili23-Downloader下载的MP
 例如图片中的“fanju”文件夹
 
 为了避免未知BUG，请尽量使用全英文路径
+
+软件图：
+
+![image](https://github.com/user-attachments/assets/c3a17a39-e09f-46cc-8c3b-549cedba1883)
